@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/OneDrive/111Mil/Caso%20para%20Certificacion%2020190201/codigo/Torneo/src/com/aonyi/torneo/utils/RegistrarInscripcion.java</file>
+            <file>file:/D:/OneDrive/111Mil/Caso%20para%20Certificacion%2020190201/codigo/Torneo/src/resources/hbm/Inscripcion.hbm.xml</file>
+            <file>file:/D:/OneDrive/111Mil/Caso%20para%20Certificacion%2020190201/codigo/Torneo/src/resources/hbm/Escuela.hbm.xml</file>
+            <file>file:/D:/OneDrive/111Mil/Caso%20para%20Certificacion%2020190201/codigo/Torneo/src/resources/hbm/Aspirante.hbm.xml</file>
+            <file>file:/D:/OneDrive/111Mil/Caso%20para%20Certificacion%2020190201/codigo/Torneo/src/com/aonyi/torneo/modelo/CambioEstado.java</file>
+            <file>file:/D:/OneDrive/111Mil/Caso%20para%20Certificacion%2020190201/codigo/Torneo/src/resources/hbm/CambioEstado.hbm.xml</file>
+            <file>file:/D:/OneDrive/111Mil/Caso%20para%20Certificacion%2020190201/codigo/Torneo/src/resources/hibernate.cfg.xml</file>
+            <file>file:/D:/OneDrive/111Mil/Caso%20para%20Certificacion%2020190201/codigo/Torneo/src/resources/hbm/EstadoInscripcion.hbm.xml</file>
+            <file>file:/D:/OneDrive/111Mil/Caso%20para%20Certificacion%2020190201/codigo/Torneo/src/resources/hbm/Categoria.hbm.xml</file>
+            <file>file:/D:/OneDrive/111Mil/Caso%20para%20Certificacion%2020190201/codigo/Torneo/src/com/aonyi/torneo/modelo/EstadoInscripcion.java</file>
+            <file>file:/D:/OneDrive/111Mil/Caso%20para%20Certificacion%2020190201/codigo/Torneo/src/resources/hbm/Competencia.hbm.xml</file>
+        </group>
+    </open-files>
+</project-private>
